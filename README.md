@@ -1,7 +1,7 @@
 # 30 Days of Code - HackerRank Solutions in C++
 
 ![C++ Logo](https://img.shields.io/badge/C%2B%2B-Solutions-blue?style=flat&logo=c%2B%2B)  
-**Author:** [Your Name]  
+**Author:** Nihal K  
 **Last Updated:** March 05, 2025  
 
 Welcome to my repository for the **30 Days of Code** challenge by HackerRank, solved entirely in **C++**. This project documents my 30-day coding journey, tackling daily problems to enhance my problem-solving skills and proficiency in C++.
